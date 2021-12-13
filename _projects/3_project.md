@@ -4,7 +4,7 @@ title: project 3
 description: a project 
 img:
 importance: 3
-category: Electronics
+category: 
 ---
 
 <!--Abstract,code,report-->

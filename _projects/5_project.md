@@ -4,7 +4,7 @@ title: project 5
 description: a project
 img:
 importance: 3
-category: DL and ML
+category: 
 ---
 
 Every project has a beautiful feature showcase page.

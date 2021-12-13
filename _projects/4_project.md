@@ -4,7 +4,7 @@ title: project 4
 description: another 
 img:
 importance: 3
-category: Electronics
+category: 
 ---
 
 Every project has a beautiful feature showcase page.
