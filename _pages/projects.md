@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
-display_categories: [Electronics, DL and ML]
+display_categories:
 horizontal: false
 ---
 <div class="projects">
